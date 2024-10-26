@@ -1,4 +1,4 @@
-package week1.FirstProgram;
+package Lab01.FirstProgram;
 import java.util.Scanner;
 public class Lab1_226 {
     static void first_degree() {

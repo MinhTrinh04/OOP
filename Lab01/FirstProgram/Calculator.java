@@ -1,4 +1,4 @@
-package week1.FirstProgram;
+package Lab01.FirstProgram;
 import javax.swing.JOptionPane;
 public class Calculator {
     public static void main(String[] args) {

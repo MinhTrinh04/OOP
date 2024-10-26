@@ -1,4 +1,4 @@
-package week1.FirstProgram;
+package Lab01.FirstProgram;
 public class HelloWorld {
 
     public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package week1.Exercise;
+package Lab01.Exercise;
 import java.util.Scanner;
 
 public class Lab63 {

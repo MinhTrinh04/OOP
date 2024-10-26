@@ -1,4 +1,4 @@
-package week1.Exercise;
+package Lab01.Exercise;
 import javax.swing.JOptionPane;
 public class Lab61 {
     public static void main(String[] args) {
