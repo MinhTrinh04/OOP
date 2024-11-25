@@ -1,5 +1,4 @@
 package hust.soict.dsai.aims.disc;
-
 public class DigitalVideoDisc {
 	private String title;
     private String category;
@@ -10,12 +9,10 @@ public class DigitalVideoDisc {
     //Section 5: Classifier Member & Instance Member
     private int id;
     private static int nbDigitalVideoDisc = 0;
-
     public DigitalVideoDisc(String title) {
         this.title = title;
         this.id = ++nbDigitalVideoDisc;
     }
-
     public DigitalVideoDisc(String title, String category, float cost) {
         this.title = title;
         this.category = category;
