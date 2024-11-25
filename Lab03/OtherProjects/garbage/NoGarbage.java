@@ -15,6 +15,7 @@ public class NoGarbage {
         StringBuilder outputStringBuilder = new StringBuilder("");
         for(byte b : inputBytes) {
             outputStringBuilder.append((char)b);
+            
         }
         endTime = System.currentTimeMillis();
         System.out.println(endTime - startTime);
