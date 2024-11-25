@@ -1,5 +1,4 @@
 package hust.soict.dsai.aims.cart;
-
 import hust.soict.dsai.aims.disc.DigitalVideoDisc;
 
 public class Cart {
@@ -102,7 +101,7 @@ public class Cart {
         return sum;
     }
     
-    
+   
   //Section 6
     public void printCart() {
       System.out.println("***********************CART***********************");
