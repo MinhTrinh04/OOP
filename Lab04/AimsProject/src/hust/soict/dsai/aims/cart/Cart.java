@@ -13,12 +13,12 @@ public class Cart {
             return;
         }
         itemsOrdered.add(media);
-        System.out.println("Added the media to the cart");
+        System.out.println("Media added to the cart");
     }
     public void removeMedia(Media media){
         if (itemsOrdered.contains(media)){
             itemsOrdered.remove(media);
-            System.out.println("Removed the media from the cart");
+            System.out.println("Media removed from the cart");
         }
         else{
             System.out.println("The media doesn't exist in the cart");

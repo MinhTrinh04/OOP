@@ -32,12 +32,6 @@ public class Book extends Media{
 
     @Override
     public String toString() {
-        return "Book{" +
-                "Authors=" + authors + '\'' +
-                ", ID=" + getId() +
-                ", Title='" + getTitle() + '\'' +
-                ", Category='" + getCategory() + '\'' +
-                ", Cost=" + getCost() +
-                "}\n";
+        return "Book{" + "Authors=" + authors + '\'' +", ID=" + getId() +", Title='" + getTitle() + '\'' +", Category='" + getCategory() + '\'' + ", Cost=" + getCost() + "}\n";
     }
 }
